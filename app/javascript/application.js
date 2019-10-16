@@ -1,1 +1,2 @@
-//= require bootstrap-sass/assets/javascripts/bootstrap-sprockets
+//= require jquery
+//= require bootstrap-sprockets
